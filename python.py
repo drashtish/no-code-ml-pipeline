@@ -1,5 +1,4 @@
 # No-Code ML Pipeline Builder
-# Fully hardened, error-safe, single-file Streamlit app
 # Handles EDA, Cleaning, Encoding, Task Detection, Training, Evaluation
 
 import streamlit as st
@@ -275,3 +274,4 @@ if st.session_state.split_done:
             st.error("Model training failed due to incompatible data.")
             st.info("Please review data cleaning and feature types.")
             st.stop()
+
