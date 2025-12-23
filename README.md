@@ -28,5 +28,7 @@ The application follows a step-by-step workflow where users can:
 
 ## How to Run
 ```bash
+git clone <[repo-url](https://github.com/drashtish/no-code-ml-pipeline)>
 pip install -r requirements.txt
 streamlit run app.py
+
