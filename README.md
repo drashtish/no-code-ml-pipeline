@@ -1,4 +1,6 @@
 # No-Code ML Pipeline Builder
+Interactive web app to train and evaluate classification models without writing code.
+
 
 This project is a web-based, no-code machine learning pipeline builder designed to help users train and evaluate ML models without writing any code.
 
